@@ -18,3 +18,15 @@ Task: Suppose that you work as a data analyst at an estate agency. They are inte
 (b) Use two re-sampling methods of your choice to estimate the test error associated with fitting these particular methods chosen in 3(a) on a set of observations. Comment on the results you obtained.
 
 4. Using this data set, house-data.csv, what else would be interesting in investigating? Identify a ‘research question’ in relation to housing data and employ methodology we know to answer this question.
+
+**Descriptive Statistics of the Data and Data Cleaning**
+
+<img width="875" alt="image" src="https://github.com/kanishk-garg97/housing-data/assets/39979689/c9aaff19-ffa3-4dc8-a396-b3f3f35a40a4">
+
+<img width="560" alt="image" src="https://github.com/kanishk-garg97/housing-data/assets/39979689/1d36d068-b96e-426e-adfc-a6aace01fea4">
+
+<img width="781" alt="image" src="https://github.com/kanishk-garg97/housing-data/assets/39979689/96c1c184-474f-4c35-8375-6ff3cfef94f0">
+
+
+
+
